@@ -1,14 +1,14 @@
 {
   "name": "reviewfinal",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is help to give the each city weather report",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "dk yadav",
   "license": "ISC",
   "dependencies": {
     "axois": "0.0.1-security",
@@ -18,5 +18,14 @@
     "nodemon": "^2.0.16",
     "request": "^2.88.2",
     "require": "^2.4.20"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dkyadav29/weatherApi-in-nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dkyadav29/weatherApi-in-nodejs/issues"
+  },
+  "homepage": "https://github.com/Dkyadav29/weatherApi-in-nodejs#readme"
 }
